@@ -1,0 +1,6 @@
+@WebApiAnimals_HostAddress = https://localhost:7006
+
+
+GET {{WebApiAnimals_HostAddress}}/api/animal
+
+###
